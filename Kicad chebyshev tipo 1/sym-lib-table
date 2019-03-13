@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name chebyshev-tipo1-rescue)(type Legacy)(uri "${KIPRJMOD}/chebyshev tipo1-rescue.lib")(options "")(descr ""))
+)
